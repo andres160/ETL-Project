@@ -5,7 +5,7 @@ Salsa Database ETL Project
 Extract:
 
 Used beautiful soap and splinter to scrape a page in order to extract the top rated salsa records per user on RateYourMusic.com
-Also collected information about the artis from last.fm and merged with the main data.
+Also collected information about the artists from last.fm and merged with the main data.
 The script would run through all 4 pages of a pre-set query link (search) that returns "Top singles from all times" from genres "Salsa" as "Rate by all RYM users".
 
 Transform:
